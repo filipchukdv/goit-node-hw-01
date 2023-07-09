@@ -2,16 +2,15 @@
 
 ## listContacts()
 
-![listContacts()](https://ibb.co/qJNs1wv)
+<a href="https://ibb.co/qpLWnMh"><img src="https://i.ibb.co/cQKCvcR/action-list.jpg" alt="action-list" border="0"></a>
 
 ## getContactById(contactId)
 
-![getContactById(contactId)](https://ibb.co/Fwz02Gs)
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/yyqYtLh/action-get.jpg" alt="action-get" border="0" /></a>
 ## removeContact(contactId)
 
-![removeContact(contactId)](https://ibb.co/nkhHYf7)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/VBX7zDg/action-add.jpg" alt="action-add" border="0" /></a>
 
 ## addContact(name, email, phone)
 
-![addContact(name, email, phone)](https://ibb.co/mJpJq0r)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/cJqJFwK/action-remove.jpg" alt="action-remove" border="0" /></a>
